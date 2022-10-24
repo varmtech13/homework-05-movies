@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/homework-05-movies/static/css/main.4c76fec2.css",
+    "main.js": "/homework-05-movies/static/js/main.06e5adb5.js",
+    "static/js/323.508c198b.chunk.js": "/homework-05-movies/static/js/323.508c198b.chunk.js",
+    "home-view.js": "/homework-05-movies/static/js/home-view.8d7e8b06.chunk.js",
+    "movie-details-view.js": "/homework-05-movies/static/js/movie-details-view.388aaf7e.chunk.js",
+    "cast.js": "/homework-05-movies/static/js/cast.4fb1f90d.chunk.js",
+    "reviews.js": "/homework-05-movies/static/js/reviews.e4c7bee5.chunk.js",
+    "static/js/318.0d484af2.chunk.js": "/homework-05-movies/static/js/318.0d484af2.chunk.js",
+    "static/js/495.9cfcb97f.chunk.js": "/homework-05-movies/static/js/495.9cfcb97f.chunk.js",
+    "static/media/no-image.jpg": "/homework-05-movies/static/media/no-image.05423dcbcdabae7d37ca.jpg",
+    "index.html": "/homework-05-movies/index.html",
+    "main.4c76fec2.css.map": "/homework-05-movies/static/css/main.4c76fec2.css.map",
+    "main.06e5adb5.js.map": "/homework-05-movies/static/js/main.06e5adb5.js.map",
+    "323.508c198b.chunk.js.map": "/homework-05-movies/static/js/323.508c198b.chunk.js.map",
+    "home-view.8d7e8b06.chunk.js.map": "/homework-05-movies/static/js/home-view.8d7e8b06.chunk.js.map",
+    "movie-details-view.388aaf7e.chunk.js.map": "/homework-05-movies/static/js/movie-details-view.388aaf7e.chunk.js.map",
+    "cast.4fb1f90d.chunk.js.map": "/homework-05-movies/static/js/cast.4fb1f90d.chunk.js.map",
+    "reviews.e4c7bee5.chunk.js.map": "/homework-05-movies/static/js/reviews.e4c7bee5.chunk.js.map",
+    "318.0d484af2.chunk.js.map": "/homework-05-movies/static/js/318.0d484af2.chunk.js.map",
+    "495.9cfcb97f.chunk.js.map": "/homework-05-movies/static/js/495.9cfcb97f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c76fec2.css",
+    "static/js/main.06e5adb5.js"
+  ]
+}
