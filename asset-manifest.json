@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/homework-05-movies/static/css/main.4c76fec2.css",
-    "main.js": "/homework-05-movies/static/js/main.94368736.js",
-    "static/js/730.7f93cf8e.chunk.js": "/homework-05-movies/static/js/730.7f93cf8e.chunk.js",
-    "home-view.js": "/homework-05-movies/static/js/home-view.3da5d64b.chunk.js",
+    "main.js": "/homework-05-movies/static/js/main.31c87d71.js",
+    "static/js/730.1d310e3d.chunk.js": "/homework-05-movies/static/js/730.1d310e3d.chunk.js",
+    "home-view.js": "/homework-05-movies/static/js/home-view.a87656e1.chunk.js",
     "movie-details-view.js": "/homework-05-movies/static/js/movie-details-view.1d1a0dd9.chunk.js",
     "cast.js": "/homework-05-movies/static/js/cast.4fb1f90d.chunk.js",
     "reviews.js": "/homework-05-movies/static/js/reviews.e4c7bee5.chunk.js",
@@ -13,9 +13,9 @@
     "static/media/no-image.jpg": "/homework-05-movies/static/media/no-image.05423dcbcdabae7d37ca.jpg",
     "index.html": "/homework-05-movies/index.html",
     "main.4c76fec2.css.map": "/homework-05-movies/static/css/main.4c76fec2.css.map",
-    "main.94368736.js.map": "/homework-05-movies/static/js/main.94368736.js.map",
-    "730.7f93cf8e.chunk.js.map": "/homework-05-movies/static/js/730.7f93cf8e.chunk.js.map",
-    "home-view.3da5d64b.chunk.js.map": "/homework-05-movies/static/js/home-view.3da5d64b.chunk.js.map",
+    "main.31c87d71.js.map": "/homework-05-movies/static/js/main.31c87d71.js.map",
+    "730.1d310e3d.chunk.js.map": "/homework-05-movies/static/js/730.1d310e3d.chunk.js.map",
+    "home-view.a87656e1.chunk.js.map": "/homework-05-movies/static/js/home-view.a87656e1.chunk.js.map",
     "movie-details-view.1d1a0dd9.chunk.js.map": "/homework-05-movies/static/js/movie-details-view.1d1a0dd9.chunk.js.map",
     "cast.4fb1f90d.chunk.js.map": "/homework-05-movies/static/js/cast.4fb1f90d.chunk.js.map",
     "reviews.e4c7bee5.chunk.js.map": "/homework-05-movies/static/js/reviews.e4c7bee5.chunk.js.map",
@@ -25,6 +25,6 @@
   },
   "entrypoints": [
     "static/css/main.4c76fec2.css",
-    "static/js/main.94368736.js"
+    "static/js/main.31c87d71.js"
   ]
 }
